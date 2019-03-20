@@ -312,6 +312,7 @@
     <Content Include="Content\images\icon\playstore.svg" />
     <Content Include="Content\images\icon\zoom-in.svg" />
     <Content Include="Content\images\logo\envato.svg" />
+    <Content Include="Content\images\logo\logo.png" />
     <Content Include="Content\images\logo\logo.svg" />
     <Content Include="Content\images\logo\logo2.svg" />
     <Content Include="Content\images\logo\logo3.svg" />
@@ -330,6 +331,11 @@
     <Content Include="Content\images\portfolio\7.jpg" />
     <Content Include="Content\images\portfolio\8.jpg" />
     <Content Include="Content\images\portfolio\9.jpg" />
+    <Content Include="Content\images\portfolio\betsmart.ge.jpg" />
+    <Content Include="Content\images\portfolio\bogveradze.com.jpg" />
+    <Content Include="Content\images\portfolio\moravi.ge.jpg" />
+    <Content Include="Content\images\portfolio\travellinegeorgia.com.jpg" />
+    <Content Include="Content\images\portfolio\veranovahotel.com.jpg" />
     <Content Include="Content\images\service\1.jpg" />
     <Content Include="Content\images\service\10.jpg" />
     <Content Include="Content\images\service\11.jpg" />
@@ -489,6 +495,12 @@
     <Content Include="Content\images\team\7.jpg" />
     <Content Include="Content\images\team\8.jpg" />
     <Content Include="Content\images\team\9.jpg" />
+    <Content Include="Content\images\team\dk.jpg" />
+    <Content Include="Content\images\team\em.jpg" />
+    <Content Include="Content\images\team\gb.jpg" />
+    <Content Include="Content\images\team\ip.jpg" />
+    <Content Include="Content\images\team\np.jpg" />
+    <Content Include="Content\images\team\ns.jpg" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\js\aos.js" />
     <Content Include="Scripts\js\bootstrap.js" />

@@ -799,7 +799,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .theme-menu-one.d-align-item.fixed  {padding-bottom: 12px;}
 /*---------------------------- Theme Main Banner One -------------------------*/
 #theme-banner-one {
-  background: url(../images/shape/1.png) no-repeat top right;
+  background: url(../Content/images/shape/1.png) no-repeat top right;
   position: relative;
 }
 #theme-banner-one .main-wrapper {padding: 235px 0 155px;}
@@ -919,7 +919,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   position: absolute;
   width: 100%;
   height: 753px;
-  background: url(../images/shape/bg4.png) no-repeat left top;
+  background: url(../Content/images/shape/bg4.png) no-repeat left top;
   bottom:-1px;
   left:0;
   z-index: 2;
@@ -1537,7 +1537,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   right: 0;
 }
 .agn-about-us:before {
-  content: url(../images/shape/2.png);
+  content: url(../Content/images/shape/2.png);
   position: absolute;
   top:0;
   left:0;
@@ -1614,7 +1614,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   animation: rotated 20s infinite linear;
 }
 .agn-our-gallery:before {
-  content: url(../images/shape/3.png);
+  content: url(../Content/images/shape/3.png);
   position: absolute;
   top:0;
   right: 0;
@@ -1821,7 +1821,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 /*-------------------- Our Pricing/ SEO -----------------*/
 .seo-our-pricing {position: relative;}
 .seo-our-pricing.section-bg {
-  background: url(../images/shape/bg2.png) no-repeat center top;
+  background: url(../Content/images/shape/bg2.png) no-repeat center top;
   background-size: cover;
   padding: 185px 0 280px;
 }
@@ -2129,7 +2129,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   z-index: 5;
 }
 .sass-testimonial-section .main-content:before {
-  content: url(../images/icon/icon28.svg);
+  content: url(../Content/images/icon/icon28.svg);
   position: absolute;
   top:50px;
   left:50%;
@@ -2251,7 +2251,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   margin: 10px 15px 30px;
 }
 .apps-testimonial .customer-block:before {
-  content: url(../images/icon/icon35.svg);
+  content: url(../Content/images/icon/icon35.svg);
   position: absolute;
   top: 50px;
   left: 45px;
@@ -2289,7 +2289,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .apps-testimonial .owl-theme .owl-nav [class*=owl-]:hover {color: #45ebff;}
 .apps-testimonial .customer-slider:before {
-  content: url(../images/icon/icon36.svg);
+  content: url(../Content/images/icon/icon36.svg);
   position: absolute;
   right: 0;
   top:-278px;
@@ -2439,7 +2439,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .agn-contact-banner {
   text-align: center;
   background-color: #F9FBFE;
-  background-image: url(../images/shape/map2.png);
+  background-image: url(../Content/images/shape/map2.png);
   background-position: center center;
   background-repeat: no-repeat;
   padding: 140px 0;
@@ -2472,7 +2472,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   height: 100%;
   top:0;
   left:0;
-  background-image: url(../images/shape/map2.png);
+  background-image: url(../Content/images/shape/map2.png);
   background-position: center center;
   background-repeat: no-repeat;
   z-index: -1;
@@ -2540,7 +2540,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   height: 100%;
   top:0;
   left:0;
-  background-image: url(../images/shape/map3.png);
+  background-image: url(../Content/images/shape/map3.png);
   background-position: center center;
   background-repeat: no-repeat;
   z-index: -1;
@@ -2654,7 +2654,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 /*----------------------- Our Goal ------------------------*/
 .seo-our-goal {
   position: relative;
-  background: url(../images/shape/bg1.png) no-repeat center;
+  background: url(../Content/images/shape/bg1.png) no-repeat center;
   background-size: cover;
   padding: 150px 0 220px;
 }
@@ -2698,7 +2698,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   right: 0;
   height: 569px;
   width: 41%;
-  background: url(../images/home/8.jpg) no-repeat left top;
+  background: url(../Content/images/home/8.jpg) no-repeat left top;
   box-shadow: 0px 50px 100px 0px rgba(89, 102, 138, 0.1);
 }
 
@@ -2809,7 +2809,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .our-service-seo .single-block:hover .more-button {color: #ff6400;}
 /*--------------------- Our Service/SASS ----------------------*/
 .our-service-sass {
-  background: url(../images/shape/shape-12.svg) no-repeat center bottom;
+  background: url(../Content/images/shape/shape-12.svg) no-repeat center bottom;
   background-size: cover;
   position: relative;
   padding: 105px 0 115px;
@@ -2840,14 +2840,14 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .our-service-sass .theme-title-one {padding-bottom: 52px;z-index: 2;}
 .our-service-sass .inner-wrapper {position: relative;z-index: 1;}
 .our-service-sass .inner-wrapper:before {
-  content: url(../images/shape/shape-13.svg);
+  content: url(../Content/images/shape/shape-13.svg);
   position: absolute;
   top:-165px;
   left:-165px;
   z-index: -1;
 }
 .our-service-sass .inner-wrapper:after {
-  content: url(../images/shape/shape-14.svg);
+  content: url(../Content/images/shape/shape-14.svg);
   position: absolute;
   bottom:-165px;
   right:-165px;
@@ -3123,14 +3123,14 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .seo-work-progress .single-work-list {position: relative; padding-bottom: 310px;}
 .seo-work-progress .single-work-list:nth-child(odd):before {
-  content: url(../images/shape/line-1.svg);
+  content: url(../Content/images/shape/line-1.svg);
   position: absolute;
   top: 53%;
   left:22%;
   z-index: -1;
 }
 .seo-work-progress .single-work-list:nth-child(even):before {
-  content: url(../images/shape/line-2.svg);
+  content: url(../Content/images/shape/line-2.svg);
   position: absolute;
   top: 35%;
   right:16%;
@@ -3653,7 +3653,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .portfo-footer .theme-title-one {margin-bottom: 118px;}
 .portfo-footer .theme-title-one:before {
-  content: url(../images/icon/icon22.svg);
+  content: url(../Content/images/icon/icon22.svg);
   position: absolute;
   top:-32px;
   left:50%;
@@ -3780,7 +3780,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .partner-slider a:hover,.partner-slider .center a {opacity: 1;transform: scale(1.1);}
 /*----------------------- Our Feature/SASS ---------------------*/
 .our-feature-sass {
-  background: url(../images/shape/bg3.png) no-repeat top 81% right;
+  background: url(../Content/images/shape/bg3.png) no-repeat top 81% right;
   padding: 0 0 20px;
   position: relative;
   z-index: 1;
@@ -3922,7 +3922,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   z-index: -1;
 }
 .our-feature-sass .section-shape-two:before {
-  content: url(../images/shape/shape-19.svg);
+  content: url(../Content/images/shape/shape-19.svg);
   position: absolute;
   top:50%;
   left:50px; 
@@ -3975,13 +3975,13 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .our-feature-app .single-feature-box {padding-bottom: 315px; position: relative;}
 .our-feature-app .single-feature-box:last-child {padding: 0;}
 .our-feature-app .single-feature-box:nth-child(1):before {
-  content: url(../images/shape/line-3.svg);
+  content: url(../Content/images/shape/line-3.svg);
   position: absolute;
   top:53%;
   left:81px;
 }
 .our-feature-app .single-feature-box:nth-child(2):before {
-  content: url(../images/shape/line-4.svg);
+  content: url(../Content/images/shape/line-4.svg);
   position: absolute;
   top:63%;
   left: 80px;
@@ -4164,7 +4164,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   animation: rotatedHalfTwo 15s alternate infinite linear;
 }
 .sass-our-pricing .section-shape-one:before {
-  content: url(../images/shape/shape-23.svg);
+  content: url(../Content/images/shape/shape-23.svg);
   position: absolute;
   top:50%;
   left:calc(21% + 4px);
@@ -4296,7 +4296,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   animation: rotatedHalfTwo 20s alternate infinite linear;
 }
 .sass-faq-section .section-shape-one:before {
-  content: url(../images/shape/shape-28.svg);
+  content: url(../Content/images/shape/shape-28.svg);
   position: absolute;
   top:50%;
   right:-10px;
@@ -4793,7 +4793,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .eCommerce-hero-section {position: relative;}
 .eCommerce-hero-section:before,
 .eCommerce-hero-section:after {
-  content: url(../images/shape/shape-54.svg);
+  content: url(../Content/images/shape/shape-54.svg);
   position: absolute;
   z-index: -3;
 }
@@ -6094,7 +6094,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .theme-counter-two .single-counter-box .text p {font-size: 18px;color: #a4a7ac;margin-top: -8px;}
 /*--------------------- Video Action Banner One ----------------------*/
 .video-action-banner-one {
-  background-image: url(../images/home/12.jpg);
+  background-image: url(../Content/images/home/12.jpg);
   background-size: 120%;
   background-repeat: no-repeat;
   animation: imageBgAnim 50s infinite linear alternate;
@@ -6125,7 +6125,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 /*--------------------- Video Action Banner Two ----------------------*/
 .theme-action-banner-two {
   position: relative;
-  background: url(../images/home/13.jpg) no-repeat center;
+  background: url(../Content/images/home/13.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   text-align: center;
@@ -6780,7 +6780,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   z-index: 1;
 }
 .our-blog .bg-solid-post.single-blog-post .post-data:before {
-  content: url(../images/icon/icon58.svg);
+  content: url(../Content/images/icon/icon58.svg);
   position: absolute;
   left:50%;
   top:0;
@@ -7009,7 +7009,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .blog-details-fg .blog-fg-data .blog-img-gallery {padding: 50px 0 80px;}
 .blog-details-fg .blog-fg-data .blog-img-gallery img {width: 100%;}
 .blog-details-fg .blog-fg-data .video-banner-blog {
-  background: url(../images/blog/34.jpg) no-repeat center;
+  background: url(../Content/images/blog/34.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   height: 615px;
@@ -7188,7 +7188,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   z-index: -1;
   width: 40%;
   height: 100%;
-  background: url(../images/home/404.png) no-repeat;
+  background: url(../Content/images/home/404.png) no-repeat;
   background-size: cover;
 }
 .error-content .inner-wrapper {
@@ -7206,7 +7206,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   margin:-30px 0 50px;
 }
 .error-creative-content {
-  background: url(../images/home/error-bg.svg) no-repeat center;
+  background: url(../Content/images/home/error-bg.svg) no-repeat center;
   background-size: cover;
   height: 100%;
 }

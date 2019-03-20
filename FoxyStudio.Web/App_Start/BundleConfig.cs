@@ -51,7 +51,7 @@ namespace FoxyStudio.Web.App_Start
 
               ));
 
-            //BundleTable.EnableOptimizations = true;
+            BundleTable.EnableOptimizations = true;
 
         }
     }
